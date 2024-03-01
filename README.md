@@ -45,4 +45,4 @@ Expected Results:<br/>
 ## Notes
 -	All test code is available in the respective classes in the repository.
 -	Ensure that the required libraries and drivers are set up before running the tests.
--   Medium blog link: 
+-   Medium blog link: https://medium.com/@humeyrakoseogluu/page-object-model-pom-ile-selenium-web-otomasyon-test-projesi-fc88a3a62679 
